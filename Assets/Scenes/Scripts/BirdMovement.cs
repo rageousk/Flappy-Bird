@@ -61,7 +61,7 @@ public class BirdMovement : MonoBehaviour
 
 
 
-
+/* ----- The below code can be useful, and I just kept it commented ------ */
 
 
 /*using System.Collections;
